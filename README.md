@@ -13,7 +13,11 @@ A professional Telegram assistant built with `aiogram 3`, integrated with Google
 - ⚡ **Non-blocking Asynchronous Design:** Offloads blocking Gemini API calls using `asyncio.to_thread` to ensure high responsiveness.
 - 🔒 **Environment Security:** API keys and sensitive tokens are safely isolated using `python-dotenv`.
 - 🧹 **History Reset:** Easy context reset via `/clear` command for both database and in-memory chat sessions.
+---
 
+## 📺 Demo Video
+You can watch the full bot demonstration (chatting, context retention, and memory check) here:
+👉 [Watch Video Demo on YouTube](https://youtu.be/2SomwGkwSsc)
 ---
 
 ## 🛠 Tech Stack
